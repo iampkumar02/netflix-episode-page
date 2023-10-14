@@ -1,4 +1,4 @@
-# flutter_application_1
+# Netflix Episode Page
 
 A new Flutter project.
 
